@@ -1,0 +1,72 @@
+
+body{
+    background-image: url("images/wallpaper-2565.jpg");
+}
+#outermost{
+    background-color:#4eabff;
+    width: 600px;
+    height: 620px;
+    position: absolute;
+    top: 0px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;                     
+}
+
+.inner{
+    background-color:#6cb8ff;
+    width: 200px;
+    height: 200px;
+    border: 2px solid black;
+    border-radius: 20%;
+}
+
+#first{
+    position: relative;
+
+}
+
+#second{
+    position: absolute;
+    left: 200px;
+    top:0; 
+}
+
+#third{
+    position: absolute;     
+    left:400px;     
+    top:0
+}
+
+#fourth{
+    position:relative;     
+    left:0;     
+    top:0;
+}
+
+#fifth{
+    position:relative;
+    left:200px;
+    top:0;
+}
+
+#sixth{
+    position:relative;
+    left:200px;
+    top:0;
+}
+
+#seven{
+    position:relative;
+}
+
+#eight{
+    position:relative;
+    left:200px
+}
+
+#nine{
+    position:relative;
+    left:200px
+}
