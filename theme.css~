@@ -57,7 +57,7 @@ body{
 }
 
 .inner{
-    background-color: #bde8ff;
+    background-color: #222222;
     width: 200px;
     height: 200px;
     border: 2px solid black;
